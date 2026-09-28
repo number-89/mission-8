@@ -21,7 +21,7 @@ class GravityEngine {
 $engine = new GravityEngine();
 // ==========================================
 // 【指示】下の1行を各自のメソッド呼び出しに書き換えろ！
-// 担当A: $engine->spinFlywheel();
+$engine->spinFlywheel();
 // 担当B: $engine->stabilizeRotor();
 $engine->stabilizeRotor();
 // ==========================================
